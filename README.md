@@ -1,3 +1,3 @@
 Personal website for CV & LinkedIn
 
-CV and html file in repo
+CV, portfolio and html file in repo
